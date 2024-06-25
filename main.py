@@ -2,7 +2,7 @@ import telebot, sqlite3
 import random, sys, os
 #TG Cloud by Syn3xuS
 #python3.12.4 | telebot | sqlite3
-
+#version: 0.1Beta
 
 def GenPass(len: int) -> str:
 	"""Password length => password"""
